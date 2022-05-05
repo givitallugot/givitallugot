@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=250&section=header&text=givitallugot&fontSize=80&animation=fadeIn&fontAlignY=25&desc=To%20be%20a%20data%20scientist&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=250&section=header&text=To%20become%20a%20data%20scientist&fontSize=30&animation=fadeIn)
+
 
 <br>
 
@@ -35,6 +36,10 @@
 
 
 <!--
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=250&section=header&text=givitallugot&fontSize=80&animation=fadeIn&fontAlignY=25&desc=To%20be%20a%20data%20scientist&descAlignY=51&descAlign=50)
+
+
 **givitallugot/givitallugot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
