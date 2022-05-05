@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=250&section=header&text=To%20become%20a%20data%20scientist&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=180&section=header&text=To%20become%20a%20data%20scientist&fontSize=30&animation=fadeIn&fontAlignY=33)
 
 
 <br>
